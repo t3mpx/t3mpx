@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3mpx&label=Profile%20views&color=0e75b6&style=flat" alt="t3mpx" /> </p>
 
-- 🔭 I’m currently working on **sharpening my core cybersecurity skills**
+- 🔭 I’m currently working on **sharpening my core cybersecurity skills** and **improving my cheatsheets**
 
 - 🌱 I’m currently learning **Red Teaming, Python, C, Azure**
 
-- 📝 I regularly write articles on [https://t3mpx.vercel.app/](https://t3mpx.vercel.app/)
+- 📝 I’m interested in **Malware and CTFs**
 
 - 💬 Ask me about **anything really :)**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/t3mpx_" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="t3mpx_" height="30" width="40" /></a>
+<a href="https://twitter.com/t3mpx_" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="t3mpx_" height="30" width="40" /></a> <a href="https://app.hackthebox.com/users/2102029" target="blank"><img align="center" src="https://simpleicons.org/icons/hackthebox.svg" alt="t3mpx_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
