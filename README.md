@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm t3mpx</h1>
-<h3 align="center">An Azure enthusiast</h3>
+<h3 align="center">A Cybersecurity enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3mpx&label=Profile%20views&color=0e75b6&style=flat" alt="t3mpx" /> </p>
 
-- 🔭 I’m currently working on **learning Azure**
+- 🔭 I’m currently working on **improving my offensive skills**
 
-- 🌱 I’m currently learning **Python, Azure, DevOps**
+- 🌱 I’m currently learning **Red Teaming, Python, Azure**
 
-- 📝 I’m interested in **automating things** and **security**
+- 📝 I’m interested in **malware development** and **security**
 
 - 💬 Ask me about **anything really :)**
 
