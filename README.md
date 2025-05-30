@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/t3mpx_" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="t3mpx_" height="30" width="40" /></a>
+<a href="https://twitter.com/t3mpx_" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="t3mpx_" height="30" width="40" /></a> <a href="https://app.hackthebox.com/users/2102029" target="blank"><img align="center" src="https://simpleicons.org/icons/hackthebox.svg" alt="t3mpx_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
